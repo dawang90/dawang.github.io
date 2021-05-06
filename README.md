@@ -1,10 +1,8 @@
 
 # 个人信息
-<img alt="陈启望"  style="float:right" src="https://dawang90.github.io/public/images/avatar.jpg" width="150px">
 
  - 陈启望/男/1992    
  - 本科/北航计算机系 
- - 联系方式：13388428144
  - 邮箱地址：314374355@qq.com
  - 工作年限：7年
  - 求职意向：全栈工程师
