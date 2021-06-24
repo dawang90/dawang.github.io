@@ -34,7 +34,7 @@ VPGame是一个集电竞赛事数据、竞猜、资讯、饰品交易的项目
 以下均为我熟练使用的技能
 
 - 主要开发：PHP/Java/Node/Html/JavaScript
-- 主要框架：Yii/Spring Boot/Spring Cloud/NodeJs/Vue/React/Taro/Flutter/Uniapp
+- 主要框架：Yii/Spring Boot/Spring Cloud/NodeJs/Vue/React/Taro/Uniapp
 - 数据库相关：MySQL/Redis/Mangodb
 - 版本管理、文档和自动化部署工具：Svn/Git
    
